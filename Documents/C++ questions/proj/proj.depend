@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567475365 source:c:\users\vaani\desktop\proj\main.cpp
+	<iostream>
+	<climits>
+
